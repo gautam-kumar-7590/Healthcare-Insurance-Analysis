@@ -15,7 +15,7 @@ healthcare_Dataset Project
 1.	Data cleaning, Exploratory Data Analysis (EDA), and KPI Calculations
 2.	Loads the raw insurance.csv, cleans it, runs all analysis, and exports insurance_cleaned.csv
 
-![image alt](https://github.com/gautam-kumar-7590/Healthcare-Insurance-Analysis/blob/2b6dc66cd4734ba54bd17e1b2a8e373a638f9121/Screenshot%20(41).png)
+
 
 POWER BI
 Healthcare Insurance Analysis
