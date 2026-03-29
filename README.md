@@ -61,6 +61,7 @@ Methods and Functions Used
 Average Charges by Region
 
 REGION      ||  AVERAGE CHARGES    ||  PATIENT COUNT
+
 Southeast   ||  $14,735 (Highest)  ||  364
 Northeast   ||  $13,406            ||  324
 Northwest   || $12,418             ||  325
