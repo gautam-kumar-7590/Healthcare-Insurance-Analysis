@@ -22,6 +22,7 @@ Healthcare Insurance Analysis
 1.	Interactive visuals dashboard with charts and KPI cards
 2.	Bar charts, Donut charts, Line chart, Treemap, and KPI cards
 
+![image alt](https://github.com/gautam-kumar-7590/Healthcare-Insurance-Analysis/blob/ad439ce80f470e3b5e327348c69c3e1bfdf70210/Screenshot%20(42).png)
 
 Dataset Summary
 
